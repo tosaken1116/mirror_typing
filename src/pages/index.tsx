@@ -71,11 +71,11 @@ const typingStringDicts = [
     },
     {
         answer: "ftp",
-        caption: "ファイルをftpで表示",
+        caption: "ファイルを転送",
     },
     {
         answer: "ssh",
-        caption: "sshでログイン",
+        caption: "リモートホストにログイン",
     },
     {
         answer: "which",
